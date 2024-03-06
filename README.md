@@ -1,11 +1,16 @@
-Hotel-Restaurant Management System.
-Project Overview.
+# Hotel-Restaurant Management System
+
+## Project Overview
+
 This project is a Java-based Hotel-Restaurant Management System designed to streamline and integrate all facets of hotel and restaurant operations. It offers a comprehensive solution for managing bookings, inventory, and customer feedback, thereby enhancing operational efficiency and customer satisfaction.
 
-Features.
-Booking Management: Manage all booking operations for both hotel rooms and restaurant tables, including reservations, cancellations, and modifications.
-Inventory Management: Keep track of inventory levels for the hotel and restaurant, including supplies, food items, and other essential goods.
+## Features
 
-Prerequisites.
-Java JDK 8 or above
-IntelliJ IDEA
+- **Booking Management**: Manage all booking operations for both hotel rooms and restaurant tables, including reservations, cancellations, and modifications.
+
+- **Inventory Management**: Keep track of inventory levels for the hotel and restaurant, including supplies, food items, and other essential goods.
+
+## Prerequisites
+
+- Java JDK 8 or above
+- IntelliJ IDEA

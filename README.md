@@ -14,3 +14,9 @@ This project is a Java-based Hotel-Restaurant Management System designed to stre
 
 - Java JDK 8 or above
 - IntelliJ IDEA
+
+## Team
+
+- Dolitsoi M. V
+- Sots I. I.
+- Slobodenuk O. A.
